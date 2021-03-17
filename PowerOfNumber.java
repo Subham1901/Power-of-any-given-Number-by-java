@@ -1,3 +1,5 @@
+@Author Subham
+
 import java.util.*;
 public class PowerOfNumber {
 
